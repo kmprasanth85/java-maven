@@ -16,7 +16,7 @@ public class HelloWorldTest {
 
 	@Test
 	public void testGetMessage() {
-		assertEquals("Hello World!", subject.getMessage(false));
+		assertEquals("Hello World!0000", subject.getMessage(false));
 	}
 
 }
